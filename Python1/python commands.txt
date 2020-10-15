@@ -1,0 +1,44 @@
+django-admin startproject LoginDialog
+
+django 
+
+python manage.py startapp LoginDialog
+
+mkdir media
+
+mkdir static
+
+python manage.py runserver
+
+python manage.py migrate
+
+python manage.py makemigrations
+
+python manage.py createsuperuser
+
+python -m pip install --upgrade pip - upgrade pip
+
+restapi
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
+
+
+add an additional class within module we can enter the command for terminal for table creation
+
+python manage.py migrate --run-syncdb
+
+
+
+
+
+Web service
+
+pip install flask-restful
+
+pip install djangorestframework
+
+
+
+
+mysql -u root -p -h localhost

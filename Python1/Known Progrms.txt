@@ -1,0 +1,13 @@
+Leap year
+Sum of Given Number
+Reverse the given Number
+Reverse the given string
+Palindrome
+program to find factorial
+Fibanochi series
+Multiplication table
+Amstrong number
+Given input is Anagram
+To find the GCD
+To find the given numbers are Co-Factor
+Print * in pyramid shape
